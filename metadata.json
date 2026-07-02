@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Appointment Booking",
+  "description": "A clean, modern website for browsing doctors by specialty, viewing availability, and booking appointments online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
